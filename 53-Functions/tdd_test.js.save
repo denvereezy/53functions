@@ -1,0 +1,10 @@
+TestMyCode.run("testing hello world function", function(assert){
+    var result = helloWorld();
+    assert.equals("hello world!", result);
+});
+TestMyCode.run("testing hello uppercase", function(assert){
+    var result = helloUppercase();
+    assert.equals("Hello, Denver", result);
+});
+TestMyCode.run("testing hello joe", function(assert){
+    var res

@@ -1,0 +1,26 @@
+div {
+	border: 5px solid black;
+	height: 50px;
+	width: 300px;
+	display: inline-block;
+        border-radius: 25px;
+        text-align:center;
+}
+body {
+    background-color:#00CCFF; 
+    
+}
+h1 {
+    background-color:#3366FF;
+    color:red;
+    text-align:center;
+    padding:5px; 
+   
+} 
+footer {
+   background-color:#3366FF;
+   color:red;
+   text-align:center;
+   
+}
+
